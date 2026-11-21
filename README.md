@@ -6,8 +6,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Regeti Naga Sankar |
-| **Register Number** | 1912260532 |
+| **Student Name** | E.Yedukondalu |
+| **Register Number** | 192312315 |
 | **Course Code** | CSA0223 |
 | **Assignment** | Assignment 1 |
 | **Compiler** | GCC |
